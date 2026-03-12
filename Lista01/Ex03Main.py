@@ -3,6 +3,7 @@ cores = {
     "vermelho":"\033[31m",
     "amarelo":"\033[33m"
 }
+## importando classe "Aluno" do arquivo "Ex03Classe"
 from Ex03Classe import Aluno
 
 nome_aluno = input("Informe o nome do aluno: ")
